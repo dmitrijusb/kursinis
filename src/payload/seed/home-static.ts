@@ -7,8 +7,9 @@ export const staticHome: Page = {
   createdAt: '',
   updatedAt: '',
   meta: {
-    title: 'Payload E-Commerce Template',
-    description: 'An open-source e-commerce store built with Payload and Next.js.',
+    title: 'Scentage',
+    description:
+      'Immerse yourself in the soothing glow of our scented candles, reed diffusers and home sprays',
   },
   hero: {
     type: 'lowImpact',
@@ -16,7 +17,7 @@ export const staticHome: Page = {
       {
         children: [
           {
-            text: 'Payload E-commerce Template',
+            text: 'Scentage',
           },
         ],
         type: 'h1',
