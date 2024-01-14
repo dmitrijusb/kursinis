@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 const defaultOpenGraph: Metadata['openGraph'] = {
   type: 'website',
   siteName: 'Scentage - Discover Your Senses',
-  title: 'Payload E-Commerce Template',
+  title: 'Scentage - Discover Your Senses',
   description:
     'Immerse yourself in the soothing glow of our scented candles, reed diffusers and home sprays',
   images: [
